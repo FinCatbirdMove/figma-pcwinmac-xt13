@@ -1,4 +1,4 @@
-# 
+# Código aberto Figma efeitos para Mac OS | Elite Figma efeitos para PC Windows. Com ferramenta liquify e rigging — otimizado para máximo desempenho em cada plataforma.
 
 
 
